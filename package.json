@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_right_way",
+  "version": "1.0.0",
+  "description": "## [Node.js 8 the Right Way](https://pragprog.com/book/jwnode2/node-js-8-the-right-way)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.2.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
